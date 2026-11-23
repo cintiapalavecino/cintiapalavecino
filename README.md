@@ -24,7 +24,7 @@ global and local Moran's I, bivariate LISA, spatial lag (SAR) models, remote-sen
 | Repository | What it shows |
 |---|---|
 | **aedes-climate-anomalies** | Weekly climate anomalies vs. a 1991–2020 baseline, GAMs and distributed lag non-linear models (DLNM) linking temperature anomalies with *Ae. aegypti* oviposition across epidemic and non-epidemic dengue seasons |
-| **host-parasite-ecoimmunology** | Cytokine expression in wild rodents and tolerance to *T. cruzi* / *T. spiralis* co-infection, using GLMMs, model averaging and PLS regression |
+| **coinfection-tolerance-models** | Tolerance to *Trypanosoma cruzi* and *Trichinella spiralis* co-infection under food restriction and social conflict, using linear and Gamma mixed models, Benjamini–Hochberg correction and `DHARMa` diagnostics |
 
 ## 📄 Selected publications
 
